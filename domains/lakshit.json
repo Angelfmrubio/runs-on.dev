@@ -10,5 +10,12 @@
   "country": "IN",
   "profile": {
     "name": "Lakshit"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=lakshit.runs-on.dev,d5a542ed198647b70158"
+      ]
+    }
   }
 }
