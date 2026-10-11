@@ -7,5 +7,10 @@
   "records": {
     "CNAME": "dev.app"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "reprodelta": {
+      "CNAME": "8gx2l2ti.up.railway.app"
+    }
+  }
 }
