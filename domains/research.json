@@ -11,5 +11,12 @@
   "profile": {
     "name": "dnishh",
     "bio": "asjd asjdkhasdjhsadhaskdhasd"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=research.runs-on.dev,1ec296086edc72973b65"
+      ]
+    }
   }
 }
