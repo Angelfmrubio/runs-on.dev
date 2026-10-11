@@ -4,9 +4,7 @@
     "github": "Pinont"
   },
   "claimedAt": "2026-10-10T11:30:35.934Z",
-  "records": {
-    "CNAME": "inf-laboratory.play.minekube.net"
-  },
+  "records": {},
   "country": "TH",
   "subdomains": {
     "play": {
