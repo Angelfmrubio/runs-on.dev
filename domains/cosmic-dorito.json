@@ -4,6 +4,8 @@
     "github": "Cosmic-dorito"
   },
   "claimedAt": "2026-10-11T18:13:27.169Z",
-  "records": {},
+  "records": {
+    "CNAME": "cosmic-dorito.github.io"
+  },
   "country": "IN"
 }
