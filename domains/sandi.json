@@ -21,6 +21,9 @@
     },
     "cipher": {
       "CNAME": "fascinating-truffle-1d4ae8.netlify.app"
+    },
+    "nativelet": {
+      "CNAME": "deluxe-faun-51ecf0.netlify.app"
     }
   }
 }
