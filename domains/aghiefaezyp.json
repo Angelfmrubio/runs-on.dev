@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "aghiefaezyp.vercel.dns-017.com"
   },
-  "country": "ID",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain.verify=aghiefaezyp.runs-on.dev"
-      ]
-    }
-  }
+  "country": "ID"
 }
